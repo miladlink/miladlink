@@ -1,27 +1,27 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-```bash
+```python
 
 import miladlink as milad
 
 milad.fullname
 
-> Milad Hasani
+>> Milad Hasani
 
 milad.work
 
-> At Aimedic
+>> At Aimedic
 
 milad.intrests
 
-> [
+>> [
     'Artificial Intelligence', 'Deep Learning', 'Computer Vision', 'Natural Language Processing', 'Time Series' 
 ]
 
 milad.skills.__dict__
 
-> {
+>> {
     'Programming_Language': ['Python', 'html'],
     'IDEs': ['VS Code', 'Pycharm', 'Anaconda Jupyter Notebook'],
     'AI_Packages': ['Pytorch', 'Pytorch-Lightning', 'Tensorflow', 'Sklearn'],
