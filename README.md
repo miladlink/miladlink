@@ -9,9 +9,15 @@ milad.fullname
 
 >> Milad Hasani
 
-milad.work
+for time in ['past', 'now', 'future']:
+    if time == 'past' or 'now'
+        print (milad.do [time])
+    else:
+        print (milad.do.future)
 
->> At Aimedic
+>> Chemical Engineering!
+>> Ai Developer at Aimedic
+>> God nows about it!
 
 milad.intrests
 
@@ -33,8 +39,6 @@ milad.skills.__dict__
 
 ```
 
-## GitHub Info
-
 [![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladlink&theme=midnight-purple&show_icons=true)](https://github.com/miladlink)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladlink&thide=jupyter%20notebook&theme=midnight-purple&layout=compact)](https://github.com/miladlink)
@@ -53,4 +57,6 @@ milad.skills.__dict__
   <img align="left" alt="Milad's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="50">](milad.link.007@gmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="44">](milad.link.007@gmail.com)
+
+[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="44">](https://t.me/miladlink)
