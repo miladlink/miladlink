@@ -16,7 +16,8 @@ milad.work
 milad.intrests
 
 >> [
-    'Artificial Intelligence', 'Deep Learning', 'Computer Vision', 'Natural Language Processing', 'Time Series' 
+    'Artificial Intelligence', 'Deep Learning', 'Computer Vision',
+    'Natural Language Processing', 'Time Series' 
 ]
 
 milad.skills.__dict__
@@ -25,7 +26,7 @@ milad.skills.__dict__
     'Programming_Language': ['Python', 'html'],
     'IDEs': ['VS Code', 'Pycharm', 'Anaconda Jupyter Notebook'],
     'AI_Packages': ['Pytorch', 'Pytorch-Lightning', 'Tensorflow', 'Sklearn'],
-    'Visualize_Packages': ['OpenVC', 'PIL', 'matplotlib', 'Skimage', 'Seaborn']'
+    'Visualize_Packages': ['OpenCV', 'PIL', 'matplotlib', 'Skimage', 'Seaborn'],
     'Data_Packages': ['Numpy', 'Pandas'],
     'Web': ['Flask', 'FastApi', 'Streamlit']
 }
