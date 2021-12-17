@@ -18,7 +18,7 @@ milad.intrests
 >> [
     'Artificial Intelligence', 'Deep Learning', 'Computer Vision',
     'Natural Language Processing', 'Time Series' 
-]
+    ]
 
 milad.skills.__dict__
 
@@ -29,12 +29,13 @@ milad.skills.__dict__
     'Visualize_Packages': ['OpenCV', 'PIL', 'matplotlib', 'Skimage', 'Seaborn'],
     'Data_Packages': ['Numpy', 'Pandas'],
     'Web': ['Flask', 'FastApi', 'Streamlit']
-}
+    }
 
 ```
 
-
-
+<a href="https://www.linkedin.com/in/milad-hasani-ba6a91135/">
+  <img align="left" alt="Milad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 [![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladlink&theme=midnight-purple&show_icons=true)](https://github.com/miladlink)
