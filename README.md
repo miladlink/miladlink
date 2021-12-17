@@ -39,6 +39,14 @@ milad.skills.__dict__
   <img align="left" alt="Milad's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://www.instagram.com/milad.link/">
+  <img align="left" alt="Milad's Instagram" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+
+<a href="https://www.instagram.com/milad.link/">
+  <img align="left" alt="Milad's Instagram" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
+
 ## GitHub Info
 
 [![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladlink&theme=midnight-purple&show_icons=true)](https://github.com/miladlink)
