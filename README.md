@@ -9,15 +9,9 @@ milad.fullname
 
 >> Milad Hasani
 
-for time in ['past', 'now', 'future']:
-    if time == 'past' or 'now'
-        print (milad.do [time])
-    else:
-        print (milad.do.future)
+milad.do ['now']
 
->> Chemical Engineering!
 >> Ai Developer at Aimedic
->> God nows about it!
 
 milad.intrests
 
