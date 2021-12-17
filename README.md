@@ -1,7 +1,7 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-```
+```bash
 
 import miladlink as milad
 
@@ -23,7 +23,8 @@ milad.skills.__dict__
 
 > {
     'Programming_Language': ['Python', 'html'],
-    'IDEs': ['VS Code', 'Pycharm', 'Anaconda Jupyter Notebook'],'AI_Packages': ['Pytorch', 'Pytorch-Lightning', 'Tensorflow', 'Sklearn'],
+    'IDEs': ['VS Code', 'Pycharm', 'Anaconda Jupyter Notebook'],
+    'AI_Packages': ['Pytorch', 'Pytorch-Lightning', 'Tensorflow', 'Sklearn'],
     'Visualize_Packages': ['OpenVC', 'PIL', 'matplotlib', 'Skimage', 'Seaborn']'
     'Data_Packages': ['Numpy', 'Pandas'],
     'Web': ['Flask', 'FastApi', 'Streamlit']
