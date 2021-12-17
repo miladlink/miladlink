@@ -53,10 +53,4 @@ milad.skills.__dict__
   <img align="left" alt="Milad's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="milad.link.007@gmail.com/">
-  <img align="left" alt="Milad's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/Gmail_icon_%282020%29.svg" />
-</a>
-
-<a href="milad.link.007@gmail.com/">
-  <img align="left" alt="Milad's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail_icon_%282020%29.svg" />
-</a>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/107px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="50">](milad.link.007@gmail.com)
