@@ -33,12 +33,17 @@ milad.skills.__dict__
 
 ```
 
+## Connect Me
+
 <a href="https://www.linkedin.com/in/milad-hasani-ba6a91135/">
-  <img align="left" alt="Milad's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Milad's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+## GitHub Info
 
 [![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladlink&theme=midnight-purple&show_icons=true)](https://github.com/miladlink)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladlink&thide=jupyter%20notebook&theme=midnight-purple&layout=compact)](https://github.com/miladlink)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miladlink" alt="miladlink" /> </p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=miladlink" alt="miladlink" /> </p>
