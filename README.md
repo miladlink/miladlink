@@ -33,20 +33,6 @@ milad.skills.__dict__
 
 ```
 
-## Connect Me
-
-<a href="https://www.linkedin.com/in/milad-hasani-ba6a91135/">
-  <img align="left" alt="Milad's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/milad.link/">
-  <img align="left" alt="Milad's Instagram" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
-
-<a href="https://www.instagram.com/milad.link/">
-  <img align="left" alt="Milad's Instagram" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
-
 ## GitHub Info
 
 [![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladlink&theme=midnight-purple&show_icons=true)](https://github.com/miladlink)
@@ -55,3 +41,22 @@ milad.skills.__dict__
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=miladlink" alt="miladlink" /> </p>
+
+
+## Connect Me
+
+<a href="https://www.linkedin.com/in/milad-hasani-ba6a91135/">
+  <img align="left" alt="Milad's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/milad.link/">
+  <img align="left" alt="Milad's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="milad.link.007@gmail.com/">
+  <img align="left" alt="Milad's LinkedIN" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/Gmail_icon_%282020%29.svg" />
+</a>
+
+<a href="milad.link.007@gmail.com/">
+  <img align="left" alt="Milad's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail_icon_%282020%29.svg" />
+</a>
