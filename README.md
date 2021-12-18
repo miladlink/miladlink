@@ -54,3 +54,6 @@ milad.skills.__dict__
 </a>
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" height="50">](https://t.me/miladlink)
+
+
+[<img src="https://cloud.githubusercontent.com/assets/6185394/6852526/739d9406-d3e5-11e4-9d04-fc2b6acb7e8e.png"alt="kaggle" height="50">](https://www.kaggle.com/miladlink)
