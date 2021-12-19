@@ -7,11 +7,11 @@ import miladlink as milad
 
 milad.fullname
 
->> Milad Hasani
+>> 'Milad Hasani'
 
 milad.do ['now']
 
->> Ai Developer at Aimedic
+>> 'Ai Developer at AImedic'
 
 milad.intrests
 
