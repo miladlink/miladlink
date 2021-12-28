@@ -23,7 +23,7 @@ milad.intrests
 milad.skills.__dict__
 
 >> {
-    'Programming_Language': ['Python', 'html'],
+    'Programming_Language': ['Python'],
     'IDEs': ['VS Code', 'Pycharm', 'Anaconda Jupyter Notebook'],
     'AI_Packages': ['Pytorch', 'Pytorch-Lightning', 'Tensorflow', 'Sklearn'],
     'Visualize_Packages': ['OpenCV', 'PIL', 'matplotlib', 'Skimage', 'Seaborn'],
